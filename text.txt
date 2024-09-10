@@ -4,3 +4,4 @@ go
 text.txt
 text2.txt
 text-local.txt
+text-github.txt
