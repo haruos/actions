@@ -3,3 +3,4 @@ example.txt
 go
 text.txt
 text2.txt
+text-github.txt
